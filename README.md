@@ -140,6 +140,15 @@ Este projeto é um ponto de partida! Aqui estão algumas ideias para expandi-lo 
 
 * Análise de Sentimento em Tempo Real: Conectar a uma fonte de dados (ex: tweets, comentários) e analisar o sentimento em tempo real. ⏱️
 
+---
+
+## Conecte-se comigo! 🤝
+
+Ficarei feliz em conectar e trocar ideias! Você pode me encontrar no LinkedIn:
+
+[![Meu LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salomao-davi)
+
+---
 
 
 
