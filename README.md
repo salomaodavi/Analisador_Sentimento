@@ -1,5 +1,15 @@
 # 🐍 Analisador de Sentimento Básico com Python 🧠
 
+---
+
+## Conecte-se comigo! 🤝
+
+Ficarei feliz em conectar e trocar ideias! Você pode me encontrar no LinkedIn:
+
+[![Meu LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salomao-davi)
+
+---
+
 Boas-vindas ao meu projeto de Analisador de Sentimento Básico! 🎉 Este é um exemplo simples, mas eficaz, de como podemos usar Python para mergulhar no mundo do Processamento de Linguagem Natural (PLN). O objetivo é pegar uma frase e determinar se o sentimento expresso nela é positivo, negativo ou neutro.
 
 Este projeto é perfeito para quem está começando em PLN ou quer ver uma aplicação prática de análise de texto de forma rápida e descomplicada. 🚀
